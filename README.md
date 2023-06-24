@@ -2,11 +2,11 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ale-Python" height=100" width="50" src="imagens\icons8-python.gif">
-  <img align="center" alt="Ale-Cpluplus" height="100" width="80" src="imagens\icons8-c++-48.png" />      
-  <img align="center" alt="Ale-Cpluplus" height="100" width="80" src="imagens\icons8-javascript.gif" />  
-  <img align="center" alt="Ale-Cpluplus" height="100" width="80" src="imagens\icons8-código.gif" />  
-  <img align="center" alt="Ale-Cpluplus" height="100" width="80" src="imagens\icons8-html.gif" />
+  <img align="center" alt="Ale-Python" height=50" width="50" src="imagens\icons8-python.gif">
+  <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-c++-48.png" />      
+  <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-javascript.gif" />  
+  <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-código.gif" />  
+  <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-html.gif" />
 </div>
 
 <div> 
