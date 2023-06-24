@@ -1,6 +1,8 @@
-### Oi sou Alessandro Tomé...
+### Oi sou Alessandro Tomé !
 
-
+<div>
+  <h3> Estudando </h3>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-Python" height=50" width="50" src="imagens\icons8-python.gif">
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-c++-48.png" />      
@@ -8,7 +10,10 @@
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-código.gif" />  
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-html.gif" />
 </div>
-<div>-----------------------------------------------------------------------------------------------</div>
+<div>------------------------------------------------------------------------------------------------------------------------------</div>
+<div>
+  <h3> Minhas redes </h3>
+</div>
 <div> 
   <a href = "mailto:alessandroneno9@gmail.com"><img height="50" width="50" src="imagens\icons8-gmail.gif" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandro-silva-023947190/" target="_blank"><img height="50" width="50" src="imagens\icons8-linkedin.gif" target="_blank"></a> 
