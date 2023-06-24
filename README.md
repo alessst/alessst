@@ -9,7 +9,7 @@
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-código.gif" />  
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-html.gif" />
 </div>
-<div>------------------------------------------------------------------------------------------------------------------------------</div>
+
 <div>
   <h3> Minhas redes </h3>
 </div>
