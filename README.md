@@ -19,12 +19,13 @@
    <a href = "https://instagram.com/aless_dev?igshid=NGExMmI2YTkyZg=="><img height="50" width="50" src="imagens\icons8-instagram.gif" target="_blank"></a>
 </div>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessst&show_icons=true&locale=en&layout=compact" alt="alessst" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessst&show_icons=true&locale=en" alt="alessst" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessst&" alt="alessst" /></p>
-
+</div>
 <div>
 <h3>Sobre mim</h3>  
   
