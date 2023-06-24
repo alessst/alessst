@@ -9,7 +9,7 @@
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-html.gif" />
 </div>
 
-<div> 
+<div margin-top: 30px;> 
   <a href = "mailto:alessandroneno9@gmail.com"><img height="50" width="50" src="imagens\icons8-gmail.gif" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandro-silva-023947190/" target="_blank"><img height="50" width="50" src="imagens\icons8-linkedin.gif" target="_blank"></a> 
    <a href = "https://instagram.com/aless_dev?igshid=NGExMmI2YTkyZg=="><img height="50" width="50" src="imagens\icons8-instagram.gif" target="_blank"></a>
