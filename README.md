@@ -1,7 +1,5 @@
-### Oi sou Alessandro Tomé !
-
 <div>
-  
+  <h2>Oi sou Alessandro Tomé !</h2>
 </div>
 <div style="display: inline_block"><br>
   <h3> Estudando </h3>
