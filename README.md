@@ -2,7 +2,7 @@
   <h2>Oi sou Alessandro Tomé !</h2>
 </div>
 <div style="display: inline_block"><br>
-  <h3> Estudando </h3>
+  <h3> Estudando... </h3>
   <img align="center" alt="Ale-Python" height=50" width="50" src="imagens\icons8-python.gif">
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-c++-48.png" />      
   <img align="center" alt="Ale-Cpluplus" height="50" width="50" src="imagens\icons8-javascript.gif" />  
@@ -21,7 +21,7 @@
 
 
 <div>
-<h2>Sobre mim</h2>  
+<h3>Sobre mim</h3>  
   
 - ☑️ Tecnico em Eletrônica formado pela ETEC, com experiencia em montagem e manutencão de circuitos eletroeletrônicos.
 - 🧑🏻‍🎓 Estudante de Engenharia Elétrica pela USJT.
