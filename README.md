@@ -11,6 +11,12 @@
 </div>
 
 <div>
+<h3> Status Github </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessst&show_icons=true&locale=en&layout=compact" alt="alessst" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessst&show_icons=true&locale=en" alt="alessst" /></p>
+</div>
+
+<div>
   <h3> Minhas redes </h3>
 </div>
 <div> 
@@ -19,12 +25,8 @@
    <a href = "https://instagram.com/aless_dev?igshid=NGExMmI2YTkyZg=="><img height="50" width="50" src="imagens\icons8-instagram.gif" target="_blank"></a>
 </div>
 
-<div>
-  <h2> Status Github </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessst&show_icons=true&locale=en&layout=compact" alt="alessst" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessst&show_icons=true&locale=en" alt="alessst" /></p>
-</div>
-<div>
+
+<div>  
 <h3>Sobre mim</h3>  
   
 - ☑️ Tecnico em Eletrônica formado pela ETEC, com experiencia em montagem e manutencão de circuitos eletroeletrônicos.
