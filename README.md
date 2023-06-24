@@ -20,10 +20,9 @@
 </div>
 
 <div>
+  <h2> Status Github </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessst&show_icons=true&locale=en&layout=compact" alt="alessst" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessst&show_icons=true&locale=en" alt="alessst" /></p>
-
 </div>
 <div>
 <h3>Sobre mim</h3>  
