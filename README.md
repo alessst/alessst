@@ -19,6 +19,7 @@
    <a href = "https://instagram.com/aless_dev?igshid=NGExMmI2YTkyZg=="><img height="50" width="50" src="imagens\icons8-instagram.gif" target="_blank"></a>
 </div>
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <div>
 <h3>Sobre mim</h3>  
