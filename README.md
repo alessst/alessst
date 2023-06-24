@@ -11,7 +11,7 @@
 
 <div> 
   <a href = "mailto:alessandroneno9@gmail.com"><img src="imagens\icons8-gmail.gif" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alessandro-silva-023947190/" target="_blank"><img src=imagens\icons8-linkedin.gif" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alessandro-silva-023947190/" target="_blank"><img src="imagens\icons8-linkedin.gif" target="_blank"></a> 
    <a href = "https://instagram.com/aless_dev?igshid=NGExMmI2YTkyZg=="><img src="imagens\icons8-instagram.gif" target="_blank"></a>
 </div>
 
