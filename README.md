@@ -29,5 +29,8 @@
 
 - ✌🏻 Sou bem dinâmico e extrovertido, me dou bem em trabalhar em equipe, gosto de manter o ambiente sempre o mais organizado possivel e tento criar varias maneiras criativas para facilitar a organização e assim o trabalho. Sempre gosto de me manter atualizado, fazendo cursos e pesquisas sobre novos métodos e tecnologias.
 
+- Durante minha carreira, tive a oportunidade de trabalhar na A e M Speed, onde atuei como técnico em eletrônica, realizando manutenção em painéis e módulos automotivos, adquirindo experiência em campo e desenvolvendo minhas habilidades técnicas.
+Em seguida, tive a oportunidade de trabalhar na FIP, uma empresa de engenharia e desenvolvimento de projetos, onde fui responsável por montagem de protótipos, realização de testes, elaboração de manuais técnicos e organização de estoque, o que me possibilitou adquirir habilidades em gestão e liderança. Atualmente trabalho na Suflex.
+
 </div>
 
