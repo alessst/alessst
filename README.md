@@ -30,7 +30,6 @@
 <h3>Sobre mim</h3>  
   
 - ☑️ Tecnico em Eletrônica formado pela ETEC, com experiencia em montagem e manutencão de circuitos eletroeletrônicos.
-- 🧑🏻‍🎓 Estudante de Engenharia Elétrica pela USJT.
 - 🧑🏻‍🎓 Estudante de Ciência de Dados pela UFMS.
 
 - ✌🏻 Sou bem dinâmico e extrovertido, me dou bem em trabalhar em equipe, gosto de manter o ambiente sempre o mais organizado possivel e tento criar varias maneiras criativas para facilitar a organização e assim o trabalho. Sempre gosto de me manter atualizado, fazendo cursos e pesquisas sobre novos métodos e tecnologias.
